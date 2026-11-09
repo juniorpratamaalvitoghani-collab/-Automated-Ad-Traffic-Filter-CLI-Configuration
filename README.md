@@ -7,6 +7,7 @@
 4. Pilih opsi Docs pojok kanan atas
 5. Pilih OS sesuai dengan laptop
 6. Buka powershell(Win+R)
+
 ->Command<-
 ## Windows
 iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
