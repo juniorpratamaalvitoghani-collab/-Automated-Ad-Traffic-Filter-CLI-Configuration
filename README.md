@@ -1,4 +1,4 @@
-# SpotifyPremium
+# Spotify Block ADS
 
 ->Langkah Langkah
 1. Donwload Spotify di [https://www.spotify.com/us/download/windows/] dengan menekan tombol "Download directly from Spotify"
